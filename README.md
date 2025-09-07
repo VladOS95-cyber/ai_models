@@ -1,7 +1,7 @@
 ## Q-Learning Artificial Neural Networks
 
 ## Description
-Designed, developed and trained differen QLearning AI models operating in https://gymnasium.farama.org/ environments.
+Designed, developed and trained different Q-Learning deep learning models operating in https://gymnasium.farama.org/ environments.
 
 ## Models
 
